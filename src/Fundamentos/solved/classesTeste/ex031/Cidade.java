@@ -1,4 +1,4 @@
-package Fundamentos.solved.ex031;
+package Fundamentos.solved.classesTeste.ex031;
 
 public class Cidade {
     private String nome;

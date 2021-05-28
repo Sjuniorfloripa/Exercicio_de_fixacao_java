@@ -1,6 +1,6 @@
 package Fundamentos.solved;
 
-import Fundamentos.solved.ex031.Cidade;
+import Fundamentos.solved.classesTeste.ex031.Cidade;
 
 import java.util.Scanner;
 
