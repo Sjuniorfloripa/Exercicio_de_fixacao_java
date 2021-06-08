@@ -4,8 +4,6 @@ import Fundamentos.solved.classesTeste.Produto;
 
 import java.text.DecimalFormat;
 import java.util.Scanner;
-import java.util.function.Function;
-import java.util.function.UnaryOperator;
 
 public class Ex038 {
     // Desafio: Use o Binary Operator ->
